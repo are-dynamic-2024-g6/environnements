@@ -1,4 +1,4 @@
-# etxyfcgjvhkbj
+# L’évolution de la température
 
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
@@ -10,18 +10,25 @@ Un titre et un résumé en anglais qui reprennent le titre et le résumé en fra
 
 |(´・ω・｀)| ( ͡° ͜ʖ ͡°) | ಠ_ಠ | ᕕ( ᐛ )ᕗ |
 |-----|--|--|--|
-| P. Bismuth| J. Doe | A. Onyme  | N. Nescio  |
+Ermal ZEQO, Ilhan AKCA, Marie-Candice Bergame, Long Keo, Mahya Hajifatah
+
 
 
 ## Description synthétique du projet
 
-**Problématique :** 
+**Problématique :Comment évolue la température dans une ville en fonction de son environnement ?
+![image](https://github.com/are-dynamic-2024-g6/environnements/assets/99696420/19ee5db4-5240-4898-9a0c-b2f6537b5dc8)
+** 
 
-**Hypothèse principale :**
+**Hypothèse principale :La température d’une ville est d’autant plus chaude si l’environnement est urbain.
+![image](https://github.com/are-dynamic-2024-g6/environnements/assets/99696420/1c791718-5981-4cd0-9165-359e9a72aa8d)
+**
 
 **Hypothèses secondaires :** 
 
-**Objectifs :**
+**Objectifs :Comparer la température d’une zone urbaine et d’une zone verte
+![image](https://github.com/are-dynamic-2024-g6/environnements/assets/99696420/a3bf4de9-de04-4378-b6e1-4db7628966ff)
+**
 
 **Critère(s) d'évaluation :**
 
