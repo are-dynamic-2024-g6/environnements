@@ -1,5 +1,4 @@
-## Mise en place de votre page Github Pages (images de https://pages.github.com/)
-
+# Contenu
 **1.** Vous rendre dans **Settings** ...
 
 ![enter image description here](https://pages.github.com/images/repo-settings@2x.png)
