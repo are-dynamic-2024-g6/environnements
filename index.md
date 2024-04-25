@@ -1,5 +1,7 @@
 # L’évolution de la température
 
+![image](https://www.aquaportail.com/pictures1309/bacteria-bacteries-virus.jpg) 
+
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
 ## English version
