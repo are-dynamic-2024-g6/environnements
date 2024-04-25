@@ -16,8 +16,10 @@ Partie 1:Dynamique de la température lors de l'ensoleillement :
 [Partie1](https://github.com/are-dynamic-2024-g6/environnements/blob/master/Partie%201.md)
 
 Partie 2:Dynamique de la température lors du désoleillement :
+[Partie2](https://github.com/are-dynamic-2024-g6/environnements/blob/master/Partie2.md)
 
 Partie 3:Comparaison des résultats :
+[Partie3](
 
 # Conclusion
 
