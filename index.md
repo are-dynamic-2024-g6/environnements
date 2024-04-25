@@ -19,7 +19,7 @@ Ermal ZEQO, Ilhan AKCA, Marie-Candice Bergame, Long Keo, Mahya Hajifatah
 ## Description synthétique du projet
 
 **Problématique :Comment évolue la température dans une ville en fonction de son environnement ?**
-![image](https://github.com/are-dynamic-2024-g6/environnements/blob/master/images/Screenshot%202024-04-23%20163341.png)
+![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Screenshot%202024-04-23%20163341.png)
 
 **Hypothèse principale :La température d’une ville est d’autant plus chaude si l’environnement est urbain.**
 
