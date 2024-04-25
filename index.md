@@ -13,6 +13,7 @@ Plus l'environnement d'une ville est urbain, plus sa température est élevée.*
 
 ## Les parties
 Partie 1:Dynamique de la température lors de l'ensoleillement :
+[Partie1](https://github.com/are-dynamic-2024-g6/environnements/blob/master/Partie%201)
 
 Partie 2:Dynamique de la température lors du désoleillement :
 
