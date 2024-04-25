@@ -2,6 +2,8 @@
 
 ![image](https://www.aquaportail.com/pictures1309/bacteria-bacteries-virus.jpg) 
 
+![image](https://etudestech.com/wp-content/uploads/2023/05/midjourney-scaled.jpeg)
+
 Résumé de quelques lignes présentant l'objectif de votre projet, la méthode que vous avez suivie pour le réaliser et les résultats marquants que vous avez obtenus.
 
 ## English version
