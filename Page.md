@@ -20,7 +20,7 @@ Partie 2:Dynamique de la température lors du désoleillement :
 
 Partie 3:Comparaison des résultats :
 [Partie3](https://github.com/are-dynamic-2024-g6/environnements/blob/master/Partie2.md)
-
+<a href="Partie3.html"> Partie 3 </a>
 # Conclusion
 
 
