@@ -23,13 +23,16 @@ Zones Industrielle : Coefficient de Réflexion : le coefficient de réflexion se
 3)Définir la fonction qui calcule le changement de température en fonction de la formule
 D'aprés notre recherche on a utiliisé la formule pour trouver la temperature de chaque case:
 
+temperature=ti−cr∗qlch
+
 Temperature-initial= Ti
 
 Quantité de libération de chaleur == Qlch
 
 Coefficient-de-réflexion== Cr
 
-![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-28%20a%CC%80%2018.26.56.png)
+pour une case:
+![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-28%20a%CC%80%2022.26.11.png)
 
 4)En fonction des températures reçues, nous créons un nouveau plan où nous présentons la baisse de température attendue dans la ville.
 
