@@ -35,4 +35,3 @@ En conclusion, cette étude nous permet de mieux comprendre les mécanismes comp
 
 Ermal ZEQO, Ilhan AKCA, Marie-Candice Bergame, Long Keo, Mahya Hajifatah
 
-## Lien vers page de blog : <a href="blog.html"> C'est ici ! </a>
