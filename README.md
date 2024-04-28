@@ -1,5 +1,3 @@
-# L’évolution de la température
-
 # Introduction 
 
 Notre projet vise à étudier de manière dynamique comment la température évolue dans des environnements caractérisés par des zones vertes et industrielles.Pour ce faire, nous avons utilisé le langage de programmation Python pour simuler une ville sous forme de matrice et effectuer trois parties principales d'analyse.
@@ -15,11 +13,13 @@ Plus l'environnement d'une ville est urbain, plus sa température est élevée.*
 Partie 1:Dynamique de la température lors de l'ensoleillement :
 <a href="Partie1.html"> [Partie1] </a>
 
-Partie 2:Dynamique de la température lors du désoleillement :
+Partie 2:Dynamique de la température lors la libération de chaleur :
 <a href="Partie2.html"> [partie2] </a>
 
-Partie 3:Comparaison des résultats :
+Partie 3:Application de Modélisation de l'Îlot de Chaleur Urbain :
 <a href="Partie3.html"> [partie3] </a>
+
+# Discussion critique des résultats
 
 # Conclusion
 
