@@ -30,6 +30,9 @@ Il est donc essentiel d'incorporer des espaces verts et de la végétation dans 
 
 En conclusion, cette étude nous permet de mieux comprendre les mécanismes complexes qui influencent la température dans les villes et souligne l'importance de la végétation dans la régulation thermique urbaine. Des études supplémentaires peuvent être réalisées pour affiner le modèle et intégrer d'autres facteurs, tels que le relief et la densité de la ville, afin d'obtenir des résultats plus précis et fiables.
 
+# Extensions possibles  
+
+Cette étude pourrait être étendue en incluant d'autres variables telles que l'humidité du sol, la densité de bâtiments, ou en explorant l'efficacité de différentes stratégies d'adaptation pour atténuer les effets de la chaleur dans la zone industrielle. De plus, des analyses de sensibilité pourraient être réalisées pour évaluer l'impact des variations de paramètres sur les résultats.
 
 ## Présentation de l'équipe
 
