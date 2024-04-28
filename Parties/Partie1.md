@@ -17,3 +17,7 @@ Les cases en verts représente les zones vertes et les cases grises les zones in
 
 5)Tracer l'évolution de la température pour un lieu précis (coordonnées).
 ![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-27%20a%CC%80%2015.03.55.png)
+
+Ce modèle a montré une augmentation générale de la température dans la ville, avec des valeurs plus élevées près du centre de la ville en raison de l'effet d'îlot de chaleur urbain.
+
+Or l'intégration de la végétation a eu un effet significatif sur la réduction de la température dans la ville. La végétation a aidé à absorber une partie du rayonnement solaire, réduisant ainsi le bilan radiatif positif et la température globale dans la ville. De plus, la végétation a également amélioré l'efficacité de la convection et de la circulation de l'air, contribuant à une meilleure régulation thermique.
