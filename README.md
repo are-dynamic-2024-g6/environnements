@@ -2,21 +2,20 @@
 
 Notre projet vise à étudier de manière dynamique comment la température évolue dans des environnements caractérisés par des zones vertes et industrielles.Pour ce faire, nous avons utilisé le langage de programmation Python pour simuler une ville sous forme de matrice et effectuer trois parties principales d'analyse.
 
-**Problématique : Comment évolue la température dans une ville en fonction de son environnement?/ Comment l'environnement influence la dynamique de la température d'une ville ?**
+**Problématique :** Comment l'urbanisation et la végétation influencent-elles l'évolution de la température dans une ville ?
 
-**Hypothèse principale : La température d’une ville est d’autant plus chaude si l’environnement est urbain./
-Plus l'environnement d'une ville est urbain, plus sa température est élevée.**
+**Hypothèse principale :** L'urbanisation conduit à une augmentation de la température locale en raison de l'effet d'îlot de chaleur urbain, tandis que la végétation peut atténuer cette augmentation en améliorant la régulation thermique.
 
-**Objectifs : Comparer la température d’une ville lors de l'ensoleillement et du désoleillement**
+**Objectifs :** Étudier l'évolution de la température dans une ville en tenant compte de l'urbanisation et de la couverture végétale.
 
 ## Les parties
-Partie 1:Dynamique de la température lors de l'ensoleillement :
+Partie 1: Dynamique de la température lors de l'ensoleillement :
 <a href="Partie1.html"> [Partie1] </a>
 
-Partie 2:Dynamique de la température lors la libération de chaleur :
+Partie 2: Dynamique de la température lors la libération de chaleur :
 <a href="Partie2.html"> [partie2] </a>
 
-Partie 3:Application de Modélisation de l'Îlot de Chaleur Urbain :
+Partie 3: Application de Modélisation de l'Îlot de Chaleur Urbain :
 <a href="Partie3.html"> [partie3] </a>
 
 # Discussion critique des résultats
