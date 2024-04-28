@@ -15,7 +15,7 @@ Partie 1: Dynamique de la température lors de l'ensoleillement :
 Partie 2: Dynamique de la température lors la libération de chaleur :
 <a href="Partie2.html"> [partie2] </a>
 
-Partie 3: Application de Modélisation de l'Îlot de Chaleur Urbain :
+Partie 3: Comparaison des résultats :
 <a href="Partie3.html"> [partie3] </a>
 
 # Discussion critique des résultats
