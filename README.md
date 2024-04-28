@@ -16,12 +16,10 @@ Partie 1:Dynamique de la température lors de l'ensoleillement :
 <a href="Partie1.html"> [Partie1] </a>
 
 Partie 2:Dynamique de la température lors du désoleillement :
-[Partie2](https://github.com/are-dynamic-2024-g6/environnements/blob/master/Partie2.md)
+<a href="Partie2.html"> [partie2] </a>
 
 Partie 3:Comparaison des résultats :
-[Partie3](https://github.com/are-dynamic-2024-g6/environnements/blob/master/Partie2.md)
-
-<a href="Partie3.html"> C'est ici ! </a>
+<a href="Partie3.html"> [partie3] </a>
 
 # Conclusion
 
