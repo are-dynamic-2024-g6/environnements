@@ -1,5 +1,5 @@
 # Troisième partie
-
+Dans cette dernière partie, nous comparerons les résultats des parties 1 et 2.
 
 1) Comparaison des évolutions de température pour deux zones différentes.
 ![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-28%20a%CC%80%2020.45.47.png)
