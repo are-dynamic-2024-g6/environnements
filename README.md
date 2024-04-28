@@ -18,6 +18,8 @@ Partie 2: Dynamique de la température lors la libération de chaleur :
 Partie 3: Comparaison des résultats :
 <a href="Partie3.html"> [partie3] </a>
 
+Les paramètres qui varient dans notre dynamique sont la quantité de libération de chaleur , la temperature initial , le coefficient de réflexion , le coefficient d'absorption et la variation de l'ensoleillement.
+
 # Discussion critique des résultats
 
 # Conclusion
