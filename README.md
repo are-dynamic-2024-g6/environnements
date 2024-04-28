@@ -23,6 +23,11 @@ Partie 3:Application de Modélisation de l'Îlot de Chaleur Urbain :
 
 # Conclusion
 
+L'intégration de la végétation dans notre modèle a montré son importance dans la régulation thermique urbaine. La végétation joue un rôle crucial dans la réduction de l'effet d'îlot de chaleur urbain en absorbant une partie du rayonnement solaire et en améliorant la convection et la circulation de l'air.
+
+Il est donc essentiel d'incorporer des espaces verts et de la végétation dans la planification urbaine pour atténuer les effets néfastes de la chaleur urbaine et améliorer le confort thermique des citoyens.
+
+En conclusion, cette étude nous permet de mieux comprendre les mécanismes complexes qui influencent la température dans les villes et souligne l'importance de la végétation dans la régulation thermique urbaine. Des études supplémentaires peuvent être réalisées pour affiner le modèle et intégrer d'autres facteurs, tels que le relief et la densité de la ville, afin d'obtenir des résultats plus précis et fiables.
 
 
 ## Présentation de l'équipe
