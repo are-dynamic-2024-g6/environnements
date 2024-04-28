@@ -7,7 +7,7 @@ Prédiction des températures locales : En tenant compte de la libération de ch
 
  Îlot de chaleur urbain, [Wikipedia](https://fr.wikipedia.org/wiki/%C3%8Elot_de_chaleur_urbain)
 
- image
+ ![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-28%20a%CC%80%2018.19.23.png)
  
 Le coefficient de réflexion. Ce terme désigne la proportion de lumière ou de chaleur réfléchie par une surface par rapport à celle qui est absorbée. Alors que le coefficient d'absorption mesure la capacité d'une surface à absorber la lumière ou la chaleur incidente, le coefficient de réflexion indique la proportion de cette énergie qui est renvoyée ou réfléchie.
 
@@ -29,19 +29,19 @@ Quantité de libération de chaleur == Qlch
 
 Coefficient-de-réflexion== Cr
 
-image
+![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-28%20a%CC%80%2018.26.56.png)
 
 4)En fonction des températures reçues, nous créons un nouveau plan où nous présentons la baisse de température attendue dans la ville.
 
-image
+![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-28%20a%CC%80%2018.27.50.png)
 
 
 5) Trouver les coordonnées de case avec la température la plus basse dans le tableau des températures.
 
-image
+![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-28%20a%CC%80%2018.28.25.png)
 
 6) Présenter le changement de température pour une case/ zone qui présente la plus grande baisse de température au cours de la journée.
 
-image
+![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-28%20a%CC%80%2018.29.02.png)
 
 
