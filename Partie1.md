@@ -10,6 +10,8 @@ Les cases en verts représente les zones vertes et les cases grises les zones in
 
 La courbe sinusoïdale est générée à l'aide de la formule :
 
+la variation de l′ensoleillement = amplitude × sin (π/12×(heure-heure de point))+ compense − quantité de chaleur
+
 amplitude : Cela représente l'amplitude de la courbe sinus, contrôlant la plage de variation de l'ensoleillement. sin ⁡
 
 sin : C'est la fonction sinus, qui renvoie le sinus de l'angle fourni.
@@ -20,7 +22,7 @@ sin : C'est la fonction sinus, qui renvoie le sinus de l'angle fourni.
 
 décalage: Cela ajoute un décalage à la courbe sinus pour s'assurer que l'ensoleillement minimale est supérieure à zéro.
 
-la variation de l′ensoleillement = amplitude × sin (π/12×(heure-heure de point))+ compense − quantité de chaleur
+
 ![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-27%20a%CC%80%2014.45.43.png)
 
 3) En fonction des températures reçues, nous créons un nouveau plan dans lequel nous présentons l'augmentation attendue de la température dans la ville.
