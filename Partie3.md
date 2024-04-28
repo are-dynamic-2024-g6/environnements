@@ -1,4 +1,4 @@
-# Partie 3
+# Troisième partie
 
 
 1) Comparaison des évolutions de température pour deux zones différentes.
