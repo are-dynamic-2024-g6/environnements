@@ -33,10 +33,12 @@ Temperature = Ti + Abs *  Ve
 
 ![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-27%20a%CC%80%2014.51.34.png)
 
+On remarque que la moyenne des températures des zones urbaines est plus élevée que celle des zones vertes.
+
 4)À partir des données obtenues, nous trouvons la zone avec la température la plus élevée.
 ![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-27%20a%CC%80%2015.04.19.png)
 
-5)Tracer l'évolution de la température pour un lieu précis (coordonnées).
+5)Tracer l'évolution de la température pour une case précise (coordonnées).
 ![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-27%20a%CC%80%2015.03.55.png)
 
 Ce modèle a montré une augmentation générale de la température dans la ville, avec des valeurs plus élevées près du centre de la ville en raison de l'effet d'îlot de chaleur urbain.
