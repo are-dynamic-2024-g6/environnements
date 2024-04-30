@@ -26,7 +26,9 @@ décalage: Cela ajoute un décalage à la courbe sinus pour s'assurer que l'enso
 ![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-27%20a%CC%80%2014.45.43.png)
 
 3) En fonction des températures reçues, nous créons un nouveau plan dans lequel nous présentons l'augmentation attendue de la température dans la ville à l'aide de la formule suivant.
-
+Ti = température initial
+Abs = coefficient d'absorption
+Ve = variation de l'ensoleillement 
 Temperature = Ti + Abs *  Ve
 
 ![image](https://raw.githubusercontent.com/are-dynamic-2024-g6/environnements/master/images/Capture%20d%E2%80%99e%CC%81cran%202024-04-27%20a%CC%80%2014.51.34.png)
