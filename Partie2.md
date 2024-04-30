@@ -27,7 +27,7 @@ D'aprés notre recherche on a utiliisé la formule pour trouver la temperature d
 
 Temperature-initial= Ti
 
-Quantité de libération de chaleur == Qlch
+Quantité de chaleur liberée == Qlch
 
 Coefficient-de-réflexion== Cr
 
