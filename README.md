@@ -21,7 +21,11 @@ Partie 3: Comparaison des résultats :
 Les paramètres qui varient dans notre dynamique sont la quantité de libération de chaleur , la temperature initial , le coefficient de réflexion , le coefficient d'absorption et la variation de l'ensoleillement.
 
 # Discussion critique des résultats
+Nos résultats présentent des limites importantes qui doivent être prises en compte lors de l'interprétation de l'étude. Tout d'abord, la simulation que nous avons utilisée pour évaluer l'évolution dynamique de la température dans notre environnement a été considérablement simplifiée afin de la rendre réalisable. Cette simplification a conduit à la non-prise en compte de nombreux facteurs complexes qui pourraient influencer la température, tels que les variations locales de la végétation, la topographie du terrain, ou encore les interactions entre les différentes surfaces environnementales.
 
+De plus, les formules et les modèles mathématiques que nous avons utilisés pour simuler la propagation de la chaleur dans notre environnement ne sont pas exempts de limitations. Ces formules reposent souvent sur des hypothèses simplificatrices et des données moyennes, ce qui peut réduire leur précision dans des contextes spécifiques. Par conséquent, il est important de reconnaître que nos résultats pourraient être affectés par l'incertitude inhérente à ces modèles.
+
+En résumé, bien que notre étude fournisse des informations utiles sur la dynamique de la température dans notre environnement étudié, il est important de reconnaître les limites inhérentes à notre approche et d'aborder toute interprétation des résultats avec prudence.
 # Conclusion
 
 L'intégration de la végétation dans notre modèle a montré son importance dans la régulation thermique urbaine. La végétation joue un rôle crucial dans la réduction de l'effet d'îlot de chaleur urbain en absorbant une partie du rayonnement solaire et en améliorant la convection et la circulation de l'air.
