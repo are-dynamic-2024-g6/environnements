@@ -23,7 +23,7 @@ Zones Industrielle : Coefficient de Réflexion : le coefficient de réflexion se
 3)Définir la fonction qui calcule le changement de température en fonction de la formule
 D'aprés notre recherche on a utiliisé la formule pour trouver la temperature de chaque case:
 
-temperature=ti−cr∗qlch
+**Temperature** = ti−cr∗qlch
 
 Temperature-initial= Ti
 
